@@ -14,7 +14,7 @@ $lista = get_funcionarios();
     <meta name="author" content="">
     <link rel="shortcut icon" href="bootstrap-3.1.1/bootstrap-3.1.1/assets/ico/favicon.ico">
 
-    <title>Signin Template for Bootstrap</title>
+    <title>Signin</title>
 
     <!-- Bootstrap core CSS -->
     <link href="bootstrap-3.1.1/bootstrap-3.1.1/dist/css/bootstrap.min.css" rel="stylesheet">
